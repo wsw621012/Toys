@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TrendScan_x64.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PatternURIs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp://pafiuser:Tr3ndM!cr0@ftp-download.trendmicro.com/pafi_patterns/root/trendmicro.zip,ftp://pafiuser:Tr3ndM!cr0@ftp-download.trendmicro.com/pafi_patterns/root/trend_icrc.zip,ftp://pafiuser:Tr3ndM!cr0@ftp-download.trendmicro.com/pafi_patterns/root/trend_hfopr.zip</Value>
+    </Setting>
+    <Setting Name="VscanName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vscanamd64.exe</Value>
+    </Setting>
+    <Setting Name="ScanInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="VscanEngine" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vsapi64.dll</Value>
+    </Setting>
+    <Setting Name="ScanLevel" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="UpdateInterval" Type="System.String" Scope="User">
+      <Value Profile="(Default)">14400,3600,300</Value>
+    </Setting>
+    <Setting Name="AUURLs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">osce10,http://osce106-p.activeupdate.trendmicro.com/activeupdate;housecall72,http://housecall7-ssa-p.activeupdate.trendmicro.com/activeupdate;osce10_china,http://osce106-p.activeupdate.trendmicro.com.cn/activeupdate/china;tmconsumer,http://tis16-p.pre-opr-au.trendmicro.com/activeupdate</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

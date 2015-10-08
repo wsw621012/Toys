@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Rules>
+  <Rule Name="HEURISTICPATTERN"><![CDATA[^(Possible_|Cryp_|HA_|HI_|HeurSpy_|PAK_|HB_|HS_|H2_|HT_|HSPY_|Aggro_|MAL_|GenericMac|Expl_|HEUR_).+$]]></Rule>
+  <Rule Name="HEURISTICPATTERN"><![CDATA[^.*\.(SM|GEN).+$]]></Rule>
+  <Rule Name="HEURISTICPATTERN"><![CDATA[^(Suspicious|O97M_Tristate|P97M_Generic|V97M_Generic|W97M_Generic|WM_Generic|X97M_Generic|XM_Generic|VBA_Generic)$]]></Rule>
+</Rules>
